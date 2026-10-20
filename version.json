@@ -1,11 +1,14 @@
 {
-  "version": "6.6.8",
-  "url_exe": "https://github.com/maiconeric/divan-digital-atualizacoes/releases/download/v.6.6.8/Diva.Digital.exe",
+  "version": "6.7.0",
+  "url_exe": "https://github.com/maiconeric/divan-digital-atualizacoes/releases/download/v.6.7.0/Diva.Digital.exe",
   "release_notes": [
-    "Esta versão traz melhorias na segurança de acesso, auto-atualização e correções gerais:",
-    "🔄• Auto-atualização integrada: O aplicativo verifica e instala atualizações automaticamente",
-    "🔒• Licenciamento seguro: Novo mecanismo para validação de licença vinculado ao computador.",
-    "🗑️• Sincronização da lixeira: Consultas movidas para a lixeira são removidas do Google Agenda.",
-    "💬• Suporte Direto: Atalho rápido para atendimento via WhatsApp."
+    "Esta versão traz melhorias importantes na estabilidade, segurança e usabilidade:",
+    "📝• Prontuário Clínico: Anotações seguras com modo de busca.",
+    "🗕• Modo Mínimo: Janela flutuante para uso em videochamadas.",
+    "⚡• Inicialização e Banco: Abertura do sistema mais rápida e segura.",
+    "🔄• Auto-atualização: Atualização de versões mais estável e robusta.",
+    "🔒• Licenciamento: Validação por hardware com suporte aprimorado.",
+    "🗑️• Sincronização da Lixeira: Exclusão automática de dados na nuvem.",
+    "🛠️• Ajustes Gerais: Correções e maior estabilidade no sistema."
   ]
 }
