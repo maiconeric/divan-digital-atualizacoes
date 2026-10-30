@@ -1,0 +1,14 @@
+{
+  "version": "6.8.3",
+  "url_exe": "https://github.com/maiconeric/divan-digital-atualizacoes/releases/download/v.6.8.3/Diva.Digital.exe",
+  "release_notes": [
+    "Esta versão traz melhorias importantes na estabilidade, segurança e usabilidade:",
+    "📝• Prontuário Clínico: Anotações seguras com modo de busca.",
+    "🗕• Modo Mínimo: Janela flutuante para uso em videochamadas.",
+    "⚡• Inicialização e Banco: Abertura do sistema mais rápida e segura.",
+    "🔄• Auto-atualização: Atualização de versões mais estável e robusta.",
+    "🔒• Licenciamento: Validação por hardware com suporte aprimorado.",
+    "🗑️• Sincronização da Lixeira: Exclusão automática de dados na nuvem.",
+    "🛠️• Ajustes Gerais: Correções e maior estabilidade no sistema."
+  ]
+}
