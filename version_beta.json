@@ -1,14 +1,14 @@
 {
-  "version": "6.8.3",
-  "url_exe": "https://github.com/maiconeric/divan-digital-atualizacoes/releases/download/v.6.8.3/Diva.Digital.exe",
+  "version": "6.9.9",
+  "url_exe": "https://github.com/maiconeric/divan-digital-atualizacoes/releases/download/v.6.9.6/Divan.Digital.exe",
   "release_notes": [
-    "Esta versão traz melhorias importantes na estabilidade, segurança e usabilidade:",
-    "📝• Prontuário Clínico: Anotações seguras com modo de busca.",
-    "🗕• Modo Mínimo: Janela flutuante para uso em videochamadas.",
-    "⚡• Inicialização e Banco: Abertura do sistema mais rápida e segura.",
-    "🔄• Auto-atualização: Atualização de versões mais estável e robusta.",
-    "🔒• Licenciamento: Validação por hardware com suporte aprimorado.",
-    "🗑️• Sincronização da Lixeira: Exclusão automática de dados na nuvem.",
-    "🛠️• Ajustes Gerais: Correções e maior estabilidade no sistema."
+  "📋• Planos: controle de ciclos e posição das sessões em cada pacote.",
+  "⏰• Consultas: aviso flutuante 30 minutos antes, com atalho para WhatsApp.",
+  "💬• WhatsApp: listas para pacientes e consultas, com registro dos últimos envios e confirmação de reenvio.",
+  "⌨️• Formulários: sugestões automáticas e preenchimento mais prático pelo teclado.",
+  "📊• Financeiro: cálculos por período, sessão e ciclo do plano, com pagos, pendências e projeções.",
+  "🗃️• Dados: migração verificada dos históricos antigos para o SQLite.",
+  "🔐• Licença: assinatura digital contra alterações manuais; usuários antigos precisam de uma conexão na primeira abertura.",
+  "🔄• Atualizações: canais normal e beta separados e reinício mais seguro do executável atualizado."
   ]
 }
